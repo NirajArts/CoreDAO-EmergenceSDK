@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 93c684d1e88c09d4e89b79437d97b810
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Plugins/UniTask/Runtime/Linq/Publish.cs
+  uploadId: 716147

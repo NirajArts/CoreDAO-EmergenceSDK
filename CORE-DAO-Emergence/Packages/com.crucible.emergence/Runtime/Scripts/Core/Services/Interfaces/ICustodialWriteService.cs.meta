@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8237051d03a5491cb0d65d6f1a0058bb
+timeCreated: 1731624973
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Runtime/Scripts/Core/Services/Interfaces/ICustodialWriteService.cs
+  uploadId: 716147

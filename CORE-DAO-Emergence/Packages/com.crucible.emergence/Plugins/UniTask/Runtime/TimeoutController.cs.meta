@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6347ab34d2db6d744a654e8d62d96b96
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Plugins/UniTask/Runtime/TimeoutController.cs
+  uploadId: 716147

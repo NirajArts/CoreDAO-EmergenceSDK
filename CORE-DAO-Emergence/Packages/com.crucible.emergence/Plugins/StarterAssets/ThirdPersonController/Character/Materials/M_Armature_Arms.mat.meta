@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 766fd3ff04aab4745a764d33daac86fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Plugins/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Arms.mat
+  uploadId: 716147

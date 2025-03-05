@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 10e151f6d6f84c158a8eec3bfc144da1
+timeCreated: 1729695080
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Runtime/Scripts/Core/Internal/Utils/OAuthHelper.cs
+  uploadId: 716147

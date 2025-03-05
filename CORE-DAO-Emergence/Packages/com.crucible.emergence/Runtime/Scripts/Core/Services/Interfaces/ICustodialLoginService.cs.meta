@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b2c13bd2f94c4e588fef92f62c7aca5d
+timeCreated: 1727883963
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Runtime/Scripts/Core/Services/Interfaces/ICustodialLoginService.cs
+  uploadId: 716147

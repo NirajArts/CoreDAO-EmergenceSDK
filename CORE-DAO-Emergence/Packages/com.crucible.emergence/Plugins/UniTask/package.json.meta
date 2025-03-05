@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1a9a71f68bb0d04db91ddaa3329abf9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Plugins/UniTask/package.json
+  uploadId: 716147

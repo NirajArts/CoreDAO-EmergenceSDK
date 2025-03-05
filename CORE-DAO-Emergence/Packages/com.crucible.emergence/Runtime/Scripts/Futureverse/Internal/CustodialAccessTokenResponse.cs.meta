@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f7524f363d44476385772a85e69d09f9
+timeCreated: 1730742363
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Runtime/Scripts/Futureverse/Internal/CustodialAccessTokenResponse.cs
+  uploadId: 716147

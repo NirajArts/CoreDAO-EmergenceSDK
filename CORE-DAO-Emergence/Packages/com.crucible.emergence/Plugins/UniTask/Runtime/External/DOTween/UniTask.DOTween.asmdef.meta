@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 029c1c1b674aaae47a6841a0b89ad80e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Plugins/UniTask/Runtime/External/DOTween/UniTask.DOTween.asmdef
+  uploadId: 716147

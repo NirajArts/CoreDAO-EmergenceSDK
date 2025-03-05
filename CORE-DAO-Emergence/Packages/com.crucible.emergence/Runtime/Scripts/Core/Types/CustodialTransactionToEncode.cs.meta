@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ca1e8c0d3c824fbdb5cab3ee4a47cf87
+timeCreated: 1731626233
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Runtime/Scripts/Core/Types/CustodialTransactionToEncode.cs
+  uploadId: 716147

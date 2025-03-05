@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 33ed04abf4914bfcb4843b78a1031af6
+timeCreated: 1731435530
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Runtime/Scripts/Core/Internal/Services/CustodialWriteService.cs
+  uploadId: 716147

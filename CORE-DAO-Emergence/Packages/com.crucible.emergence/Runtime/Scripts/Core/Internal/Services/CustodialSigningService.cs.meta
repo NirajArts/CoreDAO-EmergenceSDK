@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c66f39ac406f452da65c321ffd03fcd5
+timeCreated: 1730478044
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Runtime/Scripts/Core/Internal/Services/CustodialSigningService.cs
+  uploadId: 716147

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6d148d888ffbf54b9afe9936dfaec1f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Plugins/StarterAssets/ThirdPersonController/Prefabs/MainCamera.prefab
+  uploadId: 716147

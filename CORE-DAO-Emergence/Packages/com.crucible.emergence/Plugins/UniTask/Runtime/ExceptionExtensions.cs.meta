@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 930800098504c0d46958ce23a0495202
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Plugins/UniTask/Runtime/ExceptionExtensions.cs
+  uploadId: 716147

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 598a629804a64303945c441519a7ae84
+timeCreated: 1730287582
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Runtime/Scripts/Core/Internal/Utils/CustodialLocalWebServerHelper.cs
+  uploadId: 716147

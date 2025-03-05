@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f51ebe6a0ceec4240a699833d6309b23
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Plugins/UniTask/Runtime/UniTask.asmdef
+  uploadId: 716147

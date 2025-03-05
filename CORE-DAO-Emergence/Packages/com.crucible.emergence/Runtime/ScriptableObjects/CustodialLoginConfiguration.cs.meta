@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 270fe065ee534a7a9abef8498e1eecd6
+timeCreated: 1731676946
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Runtime/ScriptableObjects/CustodialLoginConfiguration.cs
+  uploadId: 716147

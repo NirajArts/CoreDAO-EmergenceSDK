@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 69866e262589ea643bbc62a1d696077a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Plugins/UniTask/Runtime/Linq/AsUniTaskAsyncEnumerable.cs
+  uploadId: 716147

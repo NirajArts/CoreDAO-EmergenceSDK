@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0271df749728104eac22c3d897fd8ce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Plugins/StarterAssets/Mobile/Prefabs/EventSystem/UI_EventSystem.prefab
+  uploadId: 716147

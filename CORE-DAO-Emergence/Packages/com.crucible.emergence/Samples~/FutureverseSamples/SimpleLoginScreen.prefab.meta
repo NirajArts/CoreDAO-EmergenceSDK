@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f144f8fd07a56746b909339e8166ca3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252187
+  packageName: Emergence SDK
+  packageVersion: 1.4.1
+  assetPath: Packages/com.crucible.emergence/Samples~/FutureverseSamples/SimpleLoginScreen.prefab
+  uploadId: 716147
